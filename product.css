@@ -1,0 +1,47 @@
+.card {
+    margin: 12px;
+    box-sizing: content-box;
+    background-color: azure;
+    border-radius: 20px;
+}
+
+button {
+    background-color: brown;
+}
+
+h1 {
+    padding: 12px;
+    margin: 20px;
+    text-decoration: underline;
+    background-color: aliceblue;
+    font-size: 80px;
+}
+
+p {
+    margin: 4px;
+}
+
+h3 {
+    text-align: center;
+    color: blue;
+    font: bold;
+    text-decoration: underline;
+}
+
+.container {
+    background-color: aquamarine;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.red-color {
+    color: red;
+    min-width: 769px;
+    font-size: 40px;
+    margin-left: 90%;
+}
+
+#header-image-menu {
+    top: 10px;
+    position: relative;
+}
